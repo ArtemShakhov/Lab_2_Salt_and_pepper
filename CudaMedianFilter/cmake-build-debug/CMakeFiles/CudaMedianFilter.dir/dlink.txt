@@ -1,0 +1,1 @@
+/usr/bin/nvcc  -g -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/CudaMedianFilter.dir/medianFilter.cu.o -o CMakeFiles/CudaMedianFilter.dir/cmake_device_link.o  -L"/lib/x86_64-linux-gnu"

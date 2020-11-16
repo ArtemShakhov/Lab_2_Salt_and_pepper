@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yudjin/work/CudaMedianFilter/EasyBMP/EasyBMP.h
+iostream
+-
+cmath
+-
+cctype
+-
+cstring
+-
+stdio.h
+-
+cstdio
+-
+EasyBMP_DataStructures.h
+/home/yudjin/work/CudaMedianFilter/EasyBMP/EasyBMP_DataStructures.h
+EasyBMP_BMP.h
+/home/yudjin/work/CudaMedianFilter/EasyBMP/EasyBMP_BMP.h
+EasyBMP_VariousBMPutilities.h
+/home/yudjin/work/CudaMedianFilter/EasyBMP/EasyBMP_VariousBMPutilities.h
+
+/home/yudjin/work/CudaMedianFilter/EasyBMP/EasyBMP_BMP.h
+
+/home/yudjin/work/CudaMedianFilter/EasyBMP/EasyBMP_DataStructures.h
+
+/home/yudjin/work/CudaMedianFilter/EasyBMP/EasyBMP_VariousBMPutilities.h
+
+/home/yudjin/work/CudaMedianFilter/medianFilter.cu
+stuff.h
+/home/yudjin/work/CudaMedianFilter/stuff.h
+
+/home/yudjin/work/CudaMedianFilter/stuff.h
+stdio.h
+-
+stdlib.h
+-
+EasyBMP/EasyBMP.h
+/home/yudjin/work/CudaMedianFilter/EasyBMP/EasyBMP.h
+
